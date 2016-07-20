@@ -9,7 +9,8 @@ Dieser Mod soll exakt das selbe sein, wie PowerSwitch nur, dass Features wie z.B
 
 #Download des Modes
 
-Den Mod als Apk kann man nur hier Herunterladen:  (Direktlink)
+Den Mod als Apk kann man nur hier Herunterladen: https://github.com/QiSystems/Power_Switch_Download/raw/master/final.apk  (Direktlink)
+
 Selbstverständlich kann man auch selbst Releasen
 
 # Wieso? Weshalb? Warum?
